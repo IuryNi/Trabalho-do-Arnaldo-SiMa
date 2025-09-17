@@ -49,6 +49,9 @@ temporariamente meus estudos.
 
 <img width="1095" height="674" alt="Captura de tela 2025-09-17 084134" src="https://github.com/user-attachments/assets/a6f8cc76-439f-4295-ae70-a0f54df86312" />
 
+[diagramaSequencia.2.pdf](https://github.com/user-attachments/files/22384662/diagramaSequencia.2.pdf)
+
+
 # Protótipo
 
 https://www.figma.com/proto/6B38xuZSYpVvjsyD8SWhpP/SiMA---Prot%C3%B3tipo?node-id=0-1&t=QEinYtB4Gsj76kTo-1
