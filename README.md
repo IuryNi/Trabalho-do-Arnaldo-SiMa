@@ -37,7 +37,7 @@ temporariamente meus estudos.
 
 * Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
 
-* MAIS:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
+* Representação visual:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
 
 
 # Diagrama de Caso de Uso
