@@ -43,7 +43,7 @@ temporariamente meus estudos.
 # Diagrama de Caso de Uso
 
 * Caso de Uso: Alunos
-<img width="496" height="673" alt="Image" src="https://github.com/user-attachments/assets/bd0f158d-12b8-4fba-92ef-3d46d9fa8a06" />
+<img width="538" height="654" alt="Captura de tela 2025-09-17 092354" src="https://github.com/user-attachments/assets/4cf1bb3c-9da8-48b5-8dc0-5c994d81e452" />
 
 # Diagrama de Sequencia
 
