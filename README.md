@@ -10,35 +10,31 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 
 # Histórias de Usuario
 
-* Como aluno, quero visualizar minhas
-notas para acompanhar meu desempenho.
+# Requisitos Funcionais
 
+* Como aluno, quero visualizar minhas notas para acompanhar meu desempenho.
 * Como aluno, quero visualizar minhas faltas para controlar minha frequência a evitar reprovação.
-
 * Como aluno, quero acessar meus horários de aula para organizar melhor minha rotina.
-
-* Como aluno, quero solicitar o trancamento do curso pelo app caso eu precise interromper
-temporariamente meus estudos.
-
+* Como aluno, quero solicitar o trancamento do curso pelo app caso eu precise interromper temporariamente meus estudos.
 * Como aluno, quero realizar minha rematrícula online para evitar filas e burocracia presencial.
-
 * Como aluno, quero visualizar o calendário anual acadêmico para acompanhar datas de provas, feriados e eventos.
-
 * Como aluno, quero visualizar reposições de aula para me adaptar caso haja mudanças no cronograma.
-
-* Como aluno, quero acessar contatos úteis
-(secretaria, coordenação, professores) para resolver dúvidas e questões rapidamente.
-
+* Como aluno, quero acessar contatos úteis (secretaria, coordenação, professores) para resolver dúvidas e questões rapidamente.
 * Como aluno, quero solicitar declarações de matrícula para apresentar em estágios, empregos ou instituições externas.
-
 * Como aluno, quero lretirar livros da biblioteca diretamente pelo app para facilitar meu acesso o material.
-
 * Como aluno, quero retornar livros da biblioteca de forma registrada para manter meu histórico organizado.
-
 * Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
 
 * Representação visual:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
 
+# Requisitos Não Funcionais
+
+* Segurança: O programa precisa ter um banco de dados e com Tokens de acesso cryprografados, pois possui dados sensíveis.(pen-teste)
+* Manutibilidade: Em caso de necessidade manutenção o programa necessita ser facil de manusear.(usar padrões do GOF)
+* Usabilidade: Observar a maneira que os úsuarios ultilizam o programa.(Teste de usabilidade)
+* Desempenho: Definir tempos de execução para as aplicações com determinada quanntidade de usúarios.(jmeter)
+* Confiabilidade: O programa precisa funcionar com alta demanda.
+* Portabilidade: Como existem diversos dispositivos móveis no mercado, a necessidade de portabilidade é imprescindível.
 
 # Diagrama de Caso de Uso
 
