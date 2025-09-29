@@ -49,7 +49,7 @@ https://github.com/users/IuryNi/projects/6
 [diagramaSequencia.2.pdf](https://github.com/user-attachments/files/22384662/diagramaSequencia.2.pdf)
 
 # BackLog
-
+https://github.com/users/IuryNi/projects/6
 
 # Protótipo
 
