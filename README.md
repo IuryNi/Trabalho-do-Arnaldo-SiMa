@@ -32,8 +32,8 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 * Segurança: O programa precisa ter um banco de dados e com Tokens de acesso cryprografados, pois possui dados sensíveis.(pen-teste)
 * Manutibilidade: Em caso de necessidade manutenção o programa necessita ser facil de manusear.(usar padrões do GOF)
 * Usabilidade: Observar a maneira que os úsuarios ultilizam o programa.(Teste de usabilidade)
-* Desempenho: Definir tempos de execução para as aplicações com determinada quanntidade de usúarios.(jmeter)
-* Confiabilidade: O programa precisa funcionar com alta demanda.
+* Desempenho: Definir tempos de execução para as aplicações com determinada quantidade de usúarios.(jmeter)
+* Confiabilidade: O programa precisa estar em funcionamento constantemente.
 * Portabilidade: Como existem diversos dispositivos móveis no mercado, a necessidade de portabilidade é imprescindível.
 * Escalabilidade: Nas ultimas semanas de rematricula ou matricula, o sistema deve suportar o volume simultâneo de usuários.
 
