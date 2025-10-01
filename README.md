@@ -35,6 +35,7 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 * Desempenho: Definir tempos de execução para as aplicações com determinada quanntidade de usúarios.(jmeter)
 * Confiabilidade: O programa precisa funcionar com alta demanda.
 * Portabilidade: Como existem diversos dispositivos móveis no mercado, a necessidade de portabilidade é imprescindível.
+* Escalabilidade: Nas ultimas semanas de rematricula ou matricula, o sistema deve suportar o volume simultâneo de usuários.
 
 # Diagrama de Caso de Uso
 
