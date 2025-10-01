@@ -8,10 +8,9 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 * [ Protótipo ](#Protótipo)
 * [ Autores ](#Autores)
 
-# Histórias de Usuario
-https://github.com/users/IuryNi/projects/6
+# Histórias de Usuario 
 
-# Requisitos Funcionais
+## Requisitos Funcionais
 
 * Como aluno, quero visualizar minhas notas para acompanhar meu desempenho.
 * Como aluno, quero visualizar minhas faltas para controlar minha frequência a evitar reprovação.
@@ -28,7 +27,7 @@ https://github.com/users/IuryNi/projects/6
 
 * Representação visual:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
 
-# Requisitos Não Funcionais
+## Requisitos Não Funcionais
 
 * Segurança: O programa precisa ter um banco de dados e com Tokens de acesso cryprografados, pois possui dados sensíveis.(pen-teste)
 * Manutibilidade: Em caso de necessidade manutenção o programa necessita ser facil de manusear.(usar padrões do GOF)
