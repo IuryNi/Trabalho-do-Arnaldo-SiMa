@@ -40,10 +40,10 @@ Biblioteca:
 ## Requisitos Não Funcionais
 
 * Segurança: O programa precisa ter um banco de dados criptografados e Tokens de acesso temporarios, pois possui dados sensíveis.(realizar pen-teste)
-* Manutibilidade: Em caso de necessidade manutenção o programa necessita ser facil de manusear.(usar padrões do GOF(Gang of Four) ter documentação e bem comentado)
-* Usabilidade: Observar a maneira que os úsuarios ultilizam o programa.(realizar Teste de usabilidade)
+* Manutibilidade: Em caso de necessidade de manutenção o programa necessita ser facil de manusear.(usar padrões do GOF(Gang of Four) ter documentação e bem comentado)
+* Usabilidade: O programa tem der ser intuitivo para os usuarios.(realizar Teste de usabilidade)
 * Desempenho: Definir tempos meta de execução para as aplicações com determinada quantidade de usúarios.(usando o jmeter)
-* Confiabilidade: O programa precisa estar em funcionamento constantemente.
+* Confiabilidade: O programa precisa estar em funcionamento constantemente para acesso dos alunos.
 * Portabilidade: Como existem diversos dispositivos móveis no mercado, a necessidade de portabilidade é imprescindível.
 * Escalabilidade: Nas ultimas semanas de rematricula ou matricula, o sistema deve suportar o volume simultâneo de usuários.
 
