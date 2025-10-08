@@ -35,7 +35,7 @@ Biblioteca:
 * Como aluno, quero retornar livros da biblioteca de forma registrada para manter meu histórico organizado.
 * Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
 
-* Representação visual:[historias_de_usuario 1.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
+* Representação visual:[historias_de_usuario.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
 
 ## Requisitos Não Funcionais
 
@@ -55,17 +55,16 @@ Biblioteca:
 # Diagrama de Sequência
 
 <img width="1095" height="674" alt="Captura de tela 2025-09-17 084134" src="https://github.com/user-attachments/assets/a6f8cc76-439f-4295-ae70-a0f54df86312" />
-
-[diagramaSequencia.2.pdf](https://github.com/user-attachments/files/22384662/diagramaSequencia.2.pdf)
+[Diagrama](https://github.com/user-attachments/files/22384662/diagramaSequencia.2.pdf)
 
 # BackLog
-https://github.com/users/IuryNi/projects/6
+[BackLog](https://github.com/users/IuryNi/projects/6)
 
 # Wireframe
-https://www.figma.com/proto/hyUspCnZ7IQWMP0nR52Tst/Dravter-Lo-fi-Wireframe-Kit--Community-?node-id=5905-634&p=f&t=TA63gO2EmN0ybfLE-1&scaling=min-zoom&content-scaling=fixed&page-id=709%3A14319&starting-point-node-id=5905%3A634
+[WireFrame](https://www.figma.com/proto/hyUspCnZ7IQWMP0nR52Tst/Dravter-Lo-fi-Wireframe-Kit--Community-?node-id=5905-634&p=f&t=TA63gO2EmN0ybfLE-1&scaling=min-zoom&content-scaling=fixed&page-id=709%3A14319&starting-point-node-id=5905%3A634)
 
 # Protótipo
-https://www.figma.com/proto/6B38xuZSYpVvjsyD8SWhpP/SiMA---Prot%C3%B3tipo?node-id=0-1&t=QEinYtB4Gsj76kTo-1
+[Protótipo](https://www.figma.com/proto/6B38xuZSYpVvjsyD8SWhpP/SiMA---Prot%C3%B3tipo?node-id=0-1&t=QEinYtB4Gsj76kTo-1)
 
 # Autores
 * Gabriella Scattolin
