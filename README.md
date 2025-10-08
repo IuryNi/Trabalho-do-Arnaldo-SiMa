@@ -9,7 +9,7 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 * [ Protótipo ](#Protótipo)
 * [ Autores ](#Autores)
 
-# Histórias de Usuario 
+# Histórias de Usuário 
 
 ## Requisitos Funcionais
 
@@ -52,7 +52,7 @@ Biblioteca:
 * Caso de Uso: Alunos
 <img width="538" height="654" alt="Captura de tela 2025-09-17 092354" src="https://github.com/user-attachments/assets/4cf1bb3c-9da8-48b5-8dc0-5c994d81e452" />
 
-# Diagrama de Sequencia
+# Diagrama de Sequência
 
 <img width="1095" height="674" alt="Captura de tela 2025-09-17 084134" src="https://github.com/user-attachments/assets/a6f8cc76-439f-4295-ae70-a0f54df86312" />
 
