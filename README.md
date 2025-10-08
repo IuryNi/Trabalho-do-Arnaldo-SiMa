@@ -30,7 +30,7 @@ Calendário escolar:
 * Como aluno, quero visualizar reposições de aula para me adaptar caso haja mudanças no cronograma.
 
 
-  Biblioteca:
+Biblioteca:
 * Como aluno, quero lretirar livros da biblioteca diretamente pelo app para facilitar meu acesso o material.
 * Como aluno, quero retornar livros da biblioteca de forma registrada para manter meu histórico organizado.
 * Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
