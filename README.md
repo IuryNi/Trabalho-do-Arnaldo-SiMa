@@ -1,12 +1,30 @@
 # SiMa Mobile
 O Sima é um app mobile de gestão academico, com uma interface que permite aos usuários acessarem dados relevantes de forma rápida e eficiente.
 
+# Stacks Utilizadas
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+- **Frontend (Mobile):** React Native + TypeScript  
+- **Backend (API):** Node.js + Express + TypeScript 
+- **Banco de Dados:** PostgreSQL  
+- **Gerenciamento de Pacotes:** npm  
+- **Controle de Versão:** Git e GitHub  
+- **Ferramentas de Design:** Figma  
+- **Testes:** Jest  
+- **Documentação:** Markdown e Swagger
+
 # Navegação Rápida
 * [ Histórias de Usuario ](#Histórias-de-Usuario)
 * [ Diagramas de Caso de Uso ](#Diagramas-de-Caso-de-Uso)
 * [ Diagramas de Sequencia ](#Diagramas-de-Sequencia)
 * [ Wireframe ](#Diagrama_visual)
 * [ Protótipo ](#Protótipo)
+* [ Orientações Gerais ](#Orientações-Gerais)
 * [ Autores ](#Autores)
 
 # Histórias de Usuário 
@@ -69,7 +87,7 @@ Protótipo provisório do app
 [Protótipo](https://www.figma.com/proto/6B38xuZSYpVvjsyD8SWhpP/SiMA---Prot%C3%B3tipo?node-id=0-1&t=QEinYtB4Gsj76kTo-1)
 
 <details>
-<summary><h2>Orientações Gerais</h2></summary>
+<summary><h1>Orientações Gerais</h1></summary>
 
 ### 🧭 Antes de iniciar o desenvolvimento
 
