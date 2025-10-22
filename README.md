@@ -68,6 +68,109 @@ Representação visual simplificada
 Protótipo provisório do app 
 [Protótipo](https://www.figma.com/proto/6B38xuZSYpVvjsyD8SWhpP/SiMA---Prot%C3%B3tipo?node-id=0-1&t=QEinYtB4Gsj76kTo-1)
 
+<details>
+<summary><h2>Orientações Gerais</h2></summary>
+
+### 🧭 Antes de iniciar o desenvolvimento
+
+---
+
+#### 🔹 Clonar o repositório
+```bash
+git clone git@github.com:IuryNi/Trabalho-do-Arnaldo-SiMa.git
+```
+
+#### 🔹 Acessar a pasta do projeto
+```bash
+cd Trabalho-do-Arnaldo-SiMa
+```
+
+#### 🔹 Instalar as dependências
+```bash
+npm install
+```
+
+---
+
+### 🌱 Criar uma nova branch a partir da branch principal (`main`)
+
+#### Verifique a branch atual:
+```bash
+git branch
+```
+
+#### Caso não esteja na branch `main`, altere para ela:
+```bash
+git checkout main
+```
+
+#### Crie uma nova branch para a funcionalidade ou ajuste que será desenvolvido  
+Recomenda-se seguir o padrão **Conventional Commits** para nomear branches, por exemplo:
+```
+feat/CreateHeader
+feat/CreateEndPointToFaltas
+fix/AdjustLoginValidation
+```
+
+**Exemplo:**
+```bash
+git checkout -b feat/CreateHeader
+```
+
+---
+
+### 💾 Adicionar as alterações ao controle de versão
+
+#### Verifique os arquivos modificados:
+```bash
+git status
+```
+
+#### Adicione as alterações ao stage:
+```bash
+git add .
+```
+
+#### Confirme novamente:
+```bash
+git status
+```
+
+#### Realize o commit utilizando o padrão **Conventional Commits**:
+```bash
+git commit -m "feat: create header component"
+```
+
+---
+
+### ☁️ Enviar a branch para o repositório remoto
+```bash
+git push -u origin feat/CreateHeader
+```
+
+---
+
+### 📌 Criar o Pull Request (PR)
+
+1. Acesse a aba **Pull Requests** no GitHub.  
+2. Clique em **New Pull Request**.  
+3. Em **Compare**, selecione cuidadosamente a sua branch.  
+4. Defina um título claro e descritivo, seguindo o padrão:
+   ```
+   feat: create header component
+   ```
+   ou
+   ```
+   feat: implement endpoint to manage student absences
+   ```
+5. Adicione uma breve descrição sobre o que foi desenvolvido.  
+6. Clique em **Create Pull Request** e confirme.  
+7. Verifique se o PR foi criado corretamente.
+
+---
+
+</details>
+
 # Autores
 * Gabriella Scattolin
 * Iago Rodrigues
