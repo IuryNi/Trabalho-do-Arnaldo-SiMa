@@ -10,13 +10,15 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 - **Frontend (Mobile):** React Native + TypeScript  
-- **Backend (API):** Node.js + Express + TypeScript 
+- **Estilização e UI:** React Native StyleSheet, Tailwind RN
+- **Backend (API):** Node.js + Express + TypeScript  
 - **Banco de Dados:** PostgreSQL  
 - **Gerenciamento de Pacotes:** npm  
 - **Controle de Versão:** Git e GitHub  
-- **Ferramentas de Design:** Figma  
-- **Testes:** Jest  
-- **Documentação:** Markdown e Swagger
+- **Autenticação e Segurança:** JWT (JSON Web Tokens)  
+- **Design e Protótipo:** Figma  
+- **Testes:** Jest (unitário) + Supertest (integração)  
+- **Documentação:** Markdown e Swagger  
 
 # Navegação Rápida
 * [ Histórias de Usuario ](#Histórias-de-Usuario)
