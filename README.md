@@ -28,42 +28,78 @@ O Sima é um app mobile de gestão academico, com uma interface que permite aos 
 * [ Autores ](#Autores)
 
 # Histórias de Usuário 
+<details>
+<summary><h2>Requisitos Funcionais</h2></summary>
 
-## Requisitos Funcionais
+### 📚 Informações do curso
+- **Consultar horários de aula:**  
+Como aluno, quero acessar meus horários de aula para organizar melhor minha rotina.
 
-Informações do curso:
-* Como aluno, quero acessar meus horários de aula para organizar melhor minha rotina.
-* Como aluno, quero visualizar minhas faltas para controlar minha frequência a evitar reprovação.
+- **Visualizar faltas:**  
+Como aluno, quero visualizar minhas faltas para controlar minha frequência e evitar reprovação.
 
+---
 
-Solicitações acadêmicas:
-* Como aluno, quero solicitar o trancamento do curso pelo app caso eu precise interromper
-temporariamente meus estudos.
-* Como aluno, quero solicitar declarações de matrícula para apresentar em estágios, empregos ou instituições externas.
-* Como aluno, quero realizar minha rematrícula online para evitar filas e burocracia presencial.
-  
-  
-Calendário escolar:
-* Como aluno, quero visualizar o calendário anual acadêmico para acompanhar datas de provas, feriados e eventos.
-* Como aluno, quero visualizar reposições de aula para me adaptar caso haja mudanças no cronograma.
+### 📝 Solicitações acadêmicas
+- **Trancamento do curso:**  
+Como aluno, quero solicitar o trancamento do curso pelo app caso precise interromper temporariamente meus estudos.
 
+- **Declarações de matrícula:**  
+Como aluno, quero solicitar declarações de matrícula para apresentar em estágios, empregos ou instituições externas.
 
-Biblioteca:
-* Como aluno, quero lretirar livros da biblioteca diretamente pelo app para facilitar meu acesso o material.
-* Como aluno, quero retornar livros da biblioteca de forma registrada para manter meu histórico organizado.
-* Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
+- **Rematrícula online:**  
+Como aluno, quero realizar minha rematrícula online para evitar filas e burocracia presencial.
+
+---
+
+### 📅 Calendário escolar
+- **Visualizar calendário anual:**  
+Como aluno, quero visualizar o calendário anual acadêmico para acompanhar datas de provas, feriados e eventos.
+
+- **Visualizar reposições de aula:**  
+Como aluno, quero visualizar reposições de aula para me adaptar caso haja mudanças no cronograma.
+
+---
+
+### 📖 Biblioteca
+- **Retirar livros:**  
+Como aluno, quero retirar livros da biblioteca diretamente pelo app para facilitar meu acesso ao material.
+
+- **Devolver livros:**  
+Como aluno, quero retornar livros da biblioteca de forma registrada para manter meu histórico organizado.
+
+- **Doar livros:**  
+Como aluno, quero doar livros para a biblioteca para ajudar a comunidade acadêmica.
+
+</details>
 
 * Representação visual:[historias_de_usuario.pdf](https://github.com/user-attachments/files/22384241/historias_de_usuario.1.pdf)
 
-## Requisitos Não Funcionais
+<details>
+<summary><h2>Requisitos Não Funcionais</h2></summary>
 
-* Segurança: O programa precisa ter um banco de dados criptografados e Tokens de acesso temporarios, pois possui dados sensíveis.(realizar pen-teste)
-* Manutibilidade: Em caso de necessidade de manutenção o programa necessita ser facil de manusear.(usar padrões do GOF(Gang of Four) ter documentação e bem comentado)
-* Usabilidade: O programa tem der ser intuitivo para os usuarios.(realizar Teste de usabilidade)
-* Desempenho: Definir tempos meta de execução para as aplicações com determinada quantidade de usúarios.(usando o jmeter)
-* Confiabilidade: O programa precisa estar em funcionamento constantemente para acesso dos alunos.
-* Portabilidade: Como existem diversos dispositivos móveis no mercado, a necessidade de portabilidade é imprescindível.
-* Escalabilidade: Nas ultimas semanas de rematricula ou matricula, o sistema deve suportar o volume simultâneo de usuários.
+- **Segurança:**  
+O sistema deve utilizar banco de dados criptografados e tokens de acesso temporários para proteger dados sensíveis. Recomenda-se a realização de testes de penetração (*pen-test*).
+
+- **Manutenibilidade:**  
+O sistema deve ser fácil de manter e estender. É recomendado seguir padrões de projeto (GOF – Gang of Four), manter documentação atualizada e código bem comentado.
+
+- **Usabilidade:**  
+A interface deve ser intuitiva e acessível, garantindo que os usuários consigam realizar tarefas sem dificuldades. Realizar testes de usabilidade é recomendado.
+
+- **Desempenho:**  
+O sistema deve atender a metas de tempo de resposta definidas para diferentes cargas de usuários. Ferramentas como JMeter podem ser utilizadas para testes de desempenho.
+
+- **Confiabilidade:**  
+O sistema deve estar disponível continuamente, garantindo acesso aos alunos sem interrupções significativas.
+
+- **Portabilidade:**  
+O aplicativo deve funcionar corretamente em diferentes dispositivos móveis e sistemas operacionais, garantindo compatibilidade ampla.
+
+- **Escalabilidade:**  
+O sistema deve suportar aumentos significativos de usuários simultâneos, especialmente durante períodos de rematrícula ou matrícula.
+
+</details>
 
 # Diagrama de Caso de Uso
 
