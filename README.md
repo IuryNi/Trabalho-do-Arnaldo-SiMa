@@ -105,8 +105,10 @@ O sistema deve suportar aumentos significativos de usuários simultâneos, espec
 
 # Diagrama de Caso de Uso
 
-* Caso de Uso: Alunos
-<img width="538" height="654" alt="Captura de tela 2025-09-17 092354" src="https://github.com/user-attachments/assets/4cf1bb3c-9da8-48b5-8dc0-5c994d81e452" />
+* Caso de Uso:
+<img width="509" height="768" alt="Caso de uso drawio" src="https://github.com/user-attachments/assets/d22f86cd-17fc-4521-99ad-58b317ff84e2" />
+
+
 
 # Diagrama de Sequência
 
