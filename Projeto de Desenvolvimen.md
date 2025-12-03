@@ -38,11 +38,11 @@
 
 | Data de Início | Mile Stone | QA | Deploy | Dificuldade Fibonacci (Referente ao desenvolvimento)| Data Final |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| 15/12/2025 | [Tela de Login](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/13) e Retirar Livro | - | - | 33 | 20/12/2025 |
-| 22/12/2025 | Visualizar Notas e Reposição de Aulas | Tela de Login e Retirar Livro | - | 27 | 27/12/2025 |
-| 29/12/2025 | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | Tela de Login e Retirar Livro | 35 | 03/01/2026 |
-| 05/01/2026 | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | 29 | 10/01/2026 |
-| 12/01/2026 | Calendário e Devolver Livros | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | 20 | 17/01/2026 |
+| 15/12/2025 | [Tela de Login](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/13) e [Retirar Livro](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/10) | - | - | 33 | 20/12/2025 |
+| 22/12/2025 | [Visualizar Notas](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/2) e [Reposição de Aulas](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/6) | Tela de Login e Retirar Livro | - | 27 | 27/12/2025 |
+| 29/12/2025 | [Documentação](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/8) e [Rematrícula](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/9) | Visualizar Notas e Reposição de Aulas | Tela de Login e Retirar Livro | 35 | 03/01/2026 |
+| 05/01/2026 | "[Trancar](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/7), [Visualizar Faltas](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/3) e [Horários](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/4)" | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | 29 | 10/01/2026 |
+| 12/01/2026 | [Calendário](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/5) e [Devolver Livros](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/11) | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | 20 | 17/01/2026 |
 | 19/01/2026 | Resolver Bugs | Calendário e Devolver Livros | "Trancar, Visualizar Faltas e Horários" | - | 24/01/2026 |
 | 26/01/2026 | Resolver Bugs | Revisão p/ lançamento | Calendário e Devolver Livros | - | 31/01/2026 |
 
