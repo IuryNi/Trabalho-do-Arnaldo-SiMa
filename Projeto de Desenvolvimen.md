@@ -4,7 +4,7 @@
    Este documento se trata do planejamento para o desenvolvimento do software denominado “SiMa”, que consiste em uma aplicação mobile para o “SIGA” (Sistema integrado de Gestão Acadêmica), responsável pelo gerenciamento das atividades acadêmicas dos alunos das Etecs e Fatecs do estado de São Paulo. 
 
 ## Why: 
-   Uma versão mobile do já estabelecido SIGA, permite que o acesso à informação seja facilitado, pois peossibilita ao aluno o acesso a suas informações em qualquer ambiente por meio do smartphone, outro diferencial e a disponibilidade já que as informações podem ser baixadas no aparelho, que se torna acessível sem a necessidade de internet. Além de fornecer uma experiencia personalizada e idealizada   para o usuário que utilizar o App. 
+   Uma versão mobile do já estabelecido SIGA, permite que o acesso à informação seja facilitado, pois possibilita ao aluno o acesso a suas informações em qualquer ambiente por meio do smartphone, outro diferencial e a disponibilidade já que as informações podem ser baixadas no aparelho, que se torna acessível sem a necessidade de internet. Além de fornecer uma experiencia personalizada e idealizada   para o usuário que utilizar o App. 
 
 # Who: 
 ### Equipe: 
