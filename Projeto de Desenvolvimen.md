@@ -87,8 +87,6 @@ _feature/nome-da-funcionalidade_
 8. Merge para branch principal após aprovação  
 9. Deploy automático realizado pelo DevOps  
 
-Além disso, haverá registro de decisões técnicas importantes, controle de atualizações de dependências com testes de regressão, e definição de versão semântica para o app mobile (major.minor.patch) com builds beta internos antes do release oficial.  
-
 ### Infraestrutura e Deploy  
 #### O DevOps criará pipelines de integração contínua utilizando GitHub Actions:  
 * Build do backend  
