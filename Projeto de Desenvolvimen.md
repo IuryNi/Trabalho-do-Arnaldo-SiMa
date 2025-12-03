@@ -38,13 +38,15 @@
 
 | Data de Início | Mile Stone | QA | Deploy | Dificuldade Fibonacci (Referente ao desenvolvimento)| Data Final |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| 15/12/2025 | Tela de Login<href=""> e Retirar Livro | - | - | 33 | 20/12/2025 |
+| 15/12/2025 | [Tela de Login](https://github.com/IuryNi/Trabalho-do-Arnaldo-SiMa/milestone/13) e Retirar Livro | - | - | 33 | 20/12/2025 |
 | 22/12/2025 | Visualizar Notas e Reposição de Aulas | Tela de Login e Retirar Livro | - | 27 | 27/12/2025 |
-| 28/12/2025 | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | Tela de Login e Retirar Livro | 35 | 03/01/2026 |
-| 04/01/2026 | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | 29 | 10/01/2026 |
-| 11/01/2026 | Calendário e Devolver Livros | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | 20 | 17/01/2026 |
-| 18/01/2026 | Resolver Bugs | Calendário e Devolver Livros | "Trancar, Visualizar Faltas e Horários" | - | 24/01/2026 |
-| 25/01/2026 | Resolver Bugs | Revisão p/ lançamento | Calendário e Devolver Livros | - | 31/01/2026 |
+| 29/12/2025 | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | Tela de Login e Retirar Livro | 35 | 03/01/2026 |
+| 05/01/2026 | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | Visualizar Notas e Reposição de Aulas | 29 | 10/01/2026 |
+| 12/01/2026 | Calendário e Devolver Livros | "Trancar, Visualizar Faltas e Horários" | Calendário e Rematrícula | 20 | 17/01/2026 |
+| 19/01/2026 | Resolver Bugs | Calendário e Devolver Livros | "Trancar, Visualizar Faltas e Horários" | - | 24/01/2026 |
+| 26/01/2026 | Resolver Bugs | Revisão p/ lançamento | Calendário e Devolver Livros | - | 31/01/2026 |
+
+[Timeline do Cronograma](https://github.com/users/IuryNi/projects/6/views/6?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=222411276)
 
 Ao final deste cronograma o programa terá todas as funcionalidades requisitadas no repositório do GitHub, e será lançado para o público, porém manutenções terão de ser feitas com o feedback dos usuários. 
 
