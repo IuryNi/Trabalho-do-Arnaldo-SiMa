@@ -233,6 +233,5 @@ git push -u origin feat/CreateHeader
 * Gabriella Scattolin
 * Iago Rodrigues
 * Iury Nicolau
-* Lucas Viana
 
 
